@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fooqotsa/dominos/issues"
   },
-  "homepage": "https://github.com/fooqotsa/dominos#readme"
+  "homepage": "https://github.com/fooqotsa/dominos#readme",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
 }
