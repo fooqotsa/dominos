@@ -1,0 +1,19 @@
+{
+  "name": "dominos",
+  "version": "0.0.1",
+  "description": "order pizza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fooqotsa/dominos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fooqotsa/dominos/issues"
+  },
+  "homepage": "https://github.com/fooqotsa/dominos#readme"
+}
